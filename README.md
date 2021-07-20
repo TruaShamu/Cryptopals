@@ -1,2 +1,20 @@
-# Cryptopals
-Cryptopals code by me uwu
+
+My [cryptopals](https://cryptopals.com/) code uwu
+
+Set 1:
+
+Challenge 1 - done
+
+Challenge 2 - done
+
+Challenge 3
+
+Challenge 4
+
+Challenge 5
+
+Challenge 6
+
+Challenge 7
+
+Challenge 8
