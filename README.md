@@ -13,7 +13,7 @@ Challenge 4 - done
 
 Challenge 5 - done
 
-Challenge 6
+Challenge 6 - done
 
 Challenge 7
 
