@@ -1,20 +1,2 @@
 
-My [cryptopals](https://cryptopals.com/) code uwu
-
-Set 1:
-
-Challenge 1 - done
-
-Challenge 2 - done
-
-Challenge 3 - done
-
-Challenge 4 - done
-
-Challenge 5 - done
-
-Challenge 6 - done
-
-Challenge 7
-
-Challenge 8
+My attempt at the [cryptopals](https://cryptopals.com/) challenges.
